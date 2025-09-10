@@ -1,2 +1,2 @@
 # eedspell.github.io
-EEDSPELL homepage
+This is the repository for the EEDSPELL.com homepage
